@@ -93,13 +93,6 @@ Output file:
 ##visualization.py
 -----------------------------------
 Output:  
+![alt text](file:///media/kaku/Work/transfer_learning/result/Acc_all_2016-11-02-19-42.html)
 
-<dl>
-  <dt>Definition list</dt>
-  <dd>Is something people use sometimes.</dd>
 
-  <dt>Markdown in HTML</dt>
-  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
-</dl>
-
-file:///media/kaku/Work/transfer_learning/result/Acc_all_2016-11-02-19-42.html
