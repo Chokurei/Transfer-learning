@@ -93,6 +93,6 @@ Output file:
 ##visualization.py
 -----------------------------------
 Output:  
-![image](file:///media/kaku/Work/transfer_learning/result/Acc_all_2016-11-02-19-42.html)
+![image](https://drive.google.com/open?id=0B5W1oCWDmv-3bzhnbFJfaDRDTmM)
 
 
