@@ -3,10 +3,11 @@ This work based on:
 https://github.com/fchollet/keras/blob/master/examples/mnist_transfer_cnn.py
 =======================================
 ## transfer_learning.py
+-------------
 Using MNIST data set  
-Output file:  
-        ########################Time:2016-11-02-11-56########################
-        
+Output file: 
+
+        ########################Time:2016-11-02-11-56########################        
         #                    File:trail.py
         ######################Transfer data ratio: 1/1########################
         Transfer learning trail, data set: MNIST digit identification
@@ -89,3 +90,8 @@ Output file:
          [   18   683   257   315 12509]]
         Accuracy:
         0.692971428571
+##visualization.py
+-----------------------------------
+Output:  
+
+file:///media/kaku/Work/transfer_learning/result/Acc_all_2016-11-02-19-42.html
