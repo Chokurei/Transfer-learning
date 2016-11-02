@@ -93,6 +93,7 @@ Output file:
 ##visualization.py
 -----------------------------------
 Output:  
+[[https://github.com/username/repository/blob/master/img/octocat.png|alt=octocat]]
 ![alt text](file:///media/kaku/Work/transfer_learning/result/Acc_all_2016-11-02-19-42.html)
 
 
