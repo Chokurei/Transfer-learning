@@ -96,15 +96,15 @@ Output:
 ![image](https://drive.google.com/open?id=0B5W1oCWDmv-3bzhnbFJfaDRDTmM)
 
 Green: original model test original data  
-        Good result, very stable  
+&emsp;Good result, very stable  
 Yellow: original model test new data  
-        Bad result, do not have knowledge  
+&emsp;Bad result, do not have knowledge  
 Pink: original model test all data  
-        Normal performance, can not deal with new data set  
+&emsp;Normal performance, can not deal with new data set  
 Red: transferred model test original data  
-        When new training data amount increasing,transferred model tend to forget old knowledge  
+&emsp;When new training data amount increasing,transferred model tend to forget old knowledge  
 Gray: transferred model test new data  
-        More new data can get more knowledge  
+&emsp;More new data can get more knowledge  
 Orange: transferred model test all data  
-        Performance like a convex, when new data notenough, can not understand new knowledge well,when new data too much, tend to forget old knowledge
+&emsp;Performance like a convex, when new data notenough, can not understand new knowledge well,when new data too much, tend to forget old knowledge
 
