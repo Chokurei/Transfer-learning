@@ -1,0 +1,14 @@
+
+# data processing, achieve visualization
+# 1. Change string price into float
+# 2. Get rid of useless points (such as the price is Kangji)
+# line=[SID,tlat,tlon,price,citycode,wlat,wlon]
+# line=['139588243563617','35.63293','139.59145','217000','13112','35.636173248291','139.588241577148']
+csv_change.py
+
+# feature scaling in rp13112.csv
+# as following format [long lat passenger distance price] 
+# x(input): [long lat passenger distance] y(output):[price] 
+# save result into 20161017_scaled_feature.csv 
+feature_scaling.py
+
